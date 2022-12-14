@@ -26,9 +26,13 @@
 
 
 
+<<<<<<< HEAD
 
 
 > <h3>1. 어플리케이션의 범위 및 분야</h3>
+=======
+> <h3>1. 범위 및 분야</h3>
+>>>>>>> d0e4e1ab92bd63773c6e7463b741f50123cef248
 >
 > - PS3.1은 전체 DICOM(Digital Imaging and Communications in Medicine) 표준에 대한 개요를 제공합니다.
 >
